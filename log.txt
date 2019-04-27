@@ -1,0 +1,575 @@
+------------------------------------------------------------------------------------------
+Song Name: Morrow
+ 
+Song Artist: 070 Shake
+ 
+Album Name: Morrow
+ 
+Link for the Song: https://api.spotify.com/v1/tracks/6C7BEl8GiJVZbqbsRktedx
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Movie Name: The Avengers
+ 
+------------------------------------------------------------------------------------------
+Release Date: 2012
+ 
+------------------------------------------------------------------------------------------
+Rating: 8.1
+ 
+------------------------------------------------------------------------------------------
+Rotten tomatoes rating: "92%"
+ 
+------------------------------------------------------------------------------------------
+Country: USA
+ 
+------------------------------------------------------------------------------------------
+Language: English, Russian, Hindi
+ 
+------------------------------------------------------------------------------------------
+Movie Plot: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+ 
+------------------------------------------------------------------------------------------
+Movie Cast: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: TD Garden
+ 
+Date: 04/28/2019
+ 
+City where the Concert is: Boston
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685710?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: MassMutual Center
+ 
+Date: 04/30/2019
+ 
+City where the Concert is: Springfield
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685678?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Barclays Center
+ 
+Date: 05/02/2019
+ 
+City where the Concert is: Brooklyn
+ 
+Link for the concert: https://www.bandsintown.com/e/1011684937?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Prudential Center
+ 
+Date: 05/03/2019
+ 
+City where the Concert is: Newark
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685116?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Van Andel Arena
+ 
+Date: 05/08/2019
+ 
+City where the Concert is: Grand Rapids
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685299?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Enterprise Center
+ 
+Date: 05/10/2019
+ 
+City where the Concert is: Saint Louis
+ 
+Link for the concert: https://www.bandsintown.com/e/1011684035?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Fiserv Forum
+ 
+Date: 05/12/2019
+ 
+City where the Concert is: Milwaukee
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685241?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: CHI Health Center Omaha
+ 
+Date: 05/14/2019
+ 
+City where the Concert is: Omaha
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685338?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Denny Sanford Premier Center
+ 
+Date: 05/16/2019
+ 
+City where the Concert is: Sioux Falls
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685558?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Xcel Energy Center
+ 
+Date: 05/18/2019
+ 
+City where the Concert is: St Paul
+ 
+Link for the concert: https://www.bandsintown.com/e/1011685625?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Bell MTS Place
+ 
+Date: 05/21/2019
+ 
+City where the Concert is: Winnipeg
+ 
+Link for the concert: https://www.bandsintown.com/e/1013023266?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Sasktel Centre
+ 
+Date: 05/23/2019
+ 
+City where the Concert is: Saskatoon
+ 
+Link for the concert: https://www.bandsintown.com/e/1013023247?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Rogers Place
+ 
+Date: 05/25/2019
+ 
+City where the Concert is: Edmonton
+ 
+Link for the concert: https://www.bandsintown.com/e/1013023239?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Scotiabank Saddledome
+ 
+Date: 05/28/2019
+ 
+City where the Concert is: Calgary
+ 
+Link for the concert: https://www.bandsintown.com/e/1013023268?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Rogers Arena
+ 
+Date: 05/30/2019
+ 
+City where the Concert is: Vancouver
+ 
+Link for the concert: https://www.bandsintown.com/e/1013023253?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 08/21/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014040605?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 08/23/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014042846?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 08/24/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014040738?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 08/28/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014040339?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 08/31/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014040959?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Park MGM Las Vegas
+ 
+Date: 09/01/2019
+ 
+City where the Concert is: Las Vegas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014038293?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Mercedes-Benz Arena Berlin
+ 
+Date: 09/26/2019
+ 
+City where the Concert is: Berlin
+ 
+Link for the concert: https://www.bandsintown.com/e/1014139079?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Antwerps Sportpaleis
+ 
+Date: 09/28/2019
+ 
+City where the Concert is: Antwerpen
+ 
+Link for the concert: https://www.bandsintown.com/e/1012930790?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Ziggo Dome
+ 
+Date: 09/30/2019
+ 
+City where the Concert is: Amsterdam
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933112?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Kleine Olympiahalle München
+ 
+Date: 10/03/2019
+ 
+City where the Concert is: München
+ 
+Link for the concert: https://www.bandsintown.com/e/1014131531?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Lanxess Arena
+ 
+Date: 10/05/2019
+ 
+City where the Concert is: Köln
+ 
+Link for the concert: https://www.bandsintown.com/e/1014134822?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Wiener Stadthalle - Halle D
+ 
+Date: 10/07/2019
+ 
+City where the Concert is: Vienna
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933193?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Hallenstadion
+ 
+Date: 10/09/2019
+ 
+City where the Concert is: Zürich
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933387?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: SAP Arena
+ 
+Date: 10/11/2019
+ 
+City where the Concert is: Mannheim
+ 
+Link for the concert: https://www.bandsintown.com/e/1014130524?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Barclaycard Arena Hamburg
+ 
+Date: 10/13/2019
+ 
+City where the Concert is: Hamburg
+ 
+Link for the concert: https://www.bandsintown.com/e/1012941292?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Royal Arena
+ 
+Date: 10/15/2019
+ 
+City where the Concert is: København S
+ 
+Link for the concert: https://www.bandsintown.com/e/1012930894?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Friends Arena
+ 
+Date: 10/17/2019
+ 
+City where the Concert is: Stockholm
+ 
+Link for the concert: https://www.bandsintown.com/e/1012952765?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: The O2
+ 
+Date: 10/20/2019
+ 
+City where the Concert is: London
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933742?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: The O2 Arena
+ 
+Date: 10/21/2019
+ 
+City where the Concert is: London
+ 
+Link for the concert: https://www.bandsintown.com/e/1012988574?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Manchester Arena
+ 
+Date: 10/24/2019
+ 
+City where the Concert is: Manchester
+ 
+Link for the concert: https://www.bandsintown.com/e/1012941843?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Arena Birmingham
+ 
+Date: 10/26/2019
+ 
+City where the Concert is: Birmingham
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933520?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: The SSE Hydro
+ 
+Date: 10/28/2019
+ 
+City where the Concert is: Glasgow
+ 
+Link for the concert: https://www.bandsintown.com/e/1012933369?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: First Direct Arena
+ 
+Date: 10/30/2019
+ 
+City where the Concert is: Leeds
+ 
+Link for the concert: https://www.bandsintown.com/e/1012935079?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: 3Arena
+ 
+Date: 11/01/2019
+ 
+City where the Concert is: Dublin
+ 
+Link for the concert: https://www.bandsintown.com/e/1012931575?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: SSE Arena
+ 
+Date: 11/03/2019
+ 
+City where the Concert is: Belfast
+ 
+Link for the concert: https://www.bandsintown.com/e/1014453315?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Moda Center
+ 
+Date: 11/19/2019
+ 
+City where the Concert is: Portland
+ 
+Link for the concert: https://www.bandsintown.com/e/1014421033?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Chase Center
+ 
+Date: 11/21/2019
+ 
+City where the Concert is: San Francisco
+ 
+Link for the concert: https://www.bandsintown.com/e/1014423782?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Gila River Arena
+ 
+Date: 11/23/2019
+ 
+City where the Concert is: Glendale
+ 
+Link for the concert: https://www.bandsintown.com/e/1014425753?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Pepsi Center
+ 
+Date: 11/25/2019
+ 
+City where the Concert is: Denver
+ 
+Link for the concert: https://www.bandsintown.com/e/1014423569?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: United Center
+ 
+Date: 11/27/2019
+ 
+City where the Concert is: Chicago
+ 
+Link for the concert: https://www.bandsintown.com/e/1014423457?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Scotiabank Arena
+ 
+Date: 11/29/2019
+ 
+City where the Concert is: Toronto
+ 
+Link for the concert: https://www.bandsintown.com/e/1014423981?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Madison Square Garden
+ 
+Date: 12/03/2019
+ 
+City where the Concert is: New York
+ 
+Link for the concert: https://www.bandsintown.com/e/1014422092?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Wells Fargo Center
+ 
+Date: 12/06/2019
+ 
+City where the Concert is: Philadelphia
+ 
+Link for the concert: https://www.bandsintown.com/e/1014421228?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: TD Garden
+ 
+Date: 12/08/2019
+ 
+City where the Concert is: Boston
+ 
+Link for the concert: https://www.bandsintown.com/e/1014421592?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Capital One Arena
+ 
+Date: 12/10/2019
+ 
+City where the Concert is: Washington
+ 
+Link for the concert: https://www.bandsintown.com/e/1014425826?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Smoothie King Center
+ 
+Date: 12/13/2019
+ 
+City where the Concert is: New Orleans
+ 
+Link for the concert: https://www.bandsintown.com/e/1014424395?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: Toyota Center
+ 
+Date: 12/15/2019
+ 
+City where the Concert is: Houston
+ 
+Link for the concert: https://www.bandsintown.com/e/1014423762?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: AT&T Center
+ 
+Date: 12/17/2019
+ 
+City where the Concert is: San Antonio
+ 
+Link for the concert: https://www.bandsintown.com/e/1014421226?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Name of the concert: American Airlines Center
+ 
+Date: 12/19/2019
+ 
+City where the Concert is: Dallas
+ 
+Link for the concert: https://www.bandsintown.com/e/1014420987?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
+ 
+------------------------------------------------------------------------------------------
